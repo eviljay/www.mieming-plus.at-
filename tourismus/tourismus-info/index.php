@@ -1,0 +1,706 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>Tourismus-Info</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta http-equiv="expires" content="0">
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta name="author" content="Redaktion Mieming-Plus">
+<meta name="description" content="Tourismus-Info - Angebote Tourismusverband Mieminger Plateau + Fernpass Seen/Ferienregion Tirol Mitte">
+<meta name="keywords" lang="de" content="tourismusinfo, tourismusverband mieminger plateau und fernpass seen, ferienregion tirol mitt, angebote">
+<meta name="pragma" content="no-cache">
+<meta name="robots" content="index,follow">
+<meta name="generator" content="web to date 6.0">
+<meta name="page-topic" content="news">
+<meta name="revisit-after" content="1 day">
+<meta name="google-site-verification" content="wJV17e2hAaM6N9As49fzdSH-3XHTqrRlRpWmbxfvXv4" />
+<meta name="msvalidate.01" content="49F8D54926FB6FC0742B2277E743327E" />
+<link rel="shortcut icon" href="http://www.mieming-plus.at/images/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="../../assets/s.css">
+<link rel="stylesheet" type="text/css" href="../../assets/ssb.css">
+</head>
+
+<body bgcolor="#E2E2E2" text="#000000" link="#000000" vlink="#000000" alink="#000000">
+<link rel="alternate" type="application/rss+xml"
+   title="RSS" href="http://www.mieming-plus.at/assets/rss/8627589bdf0e9f505.xml" />
+<script type="text/javascript">
+//<![CDATA[
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+var pageTracker = _gat._getTracker('UA-1866492-1');
+pageTracker._setDomainName("none");  
+pageTracker._setAllowLinker(true);
+pageTracker._initData();
+pageTracker._trackPageview();
+
+//]]>
+</script>
+<table align="center" width="870" cellpadding="5" cellspacing="0" border="0">
+<tr>
+
+<td width="700" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="700" align="center" bgcolor="#EFEFEF">
+<tr>
+<td bgcolor="#E2E2E2"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+<td bgcolor="#E2E2E2"><img src="../../images/pcp.gif" width="160" height="4" alt="" border="0"></td>
+<td bgcolor="#E2E2E2"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+<td bgcolor="#E2E2E2"><img src="../../images/pcp.gif" width="537" height="4" alt="" border="0"></td>
+<td bgcolor="#E2E2E2"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+
+<tr>
+<td colspan="5"><table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td><img src="../../images/plogl.gif" width="350" height="100" alt="" border="0"></td>
+<td><img src="../../images/s2dlogo.jpg" width="350" height="100" alt="" border="0"></td>
+</tr>
+</table></td>
+</tr>
+
+<tr>
+<td bgcolor="#b1b1b1"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+<td colspan="3" align="right" height="16" bgcolor="#651B1B">
+
+<span class="small">
+<script type="text/javascript">
+  today = new Date();
+  today = today.getDate()+"."+(today.getMonth()+1)+"."+today.getFullYear();
+  document.write(today+"&nbsp;");
+</script>
+<br></span>
+</td>
+<td bgcolor="#b1b1b1"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+
+<tr>
+<td bgcolor="#b1b1b1"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+<td bgcolor="#ffffff"><a class="alt" href="../index.php"><img src="../../images/pard.gif" width="15" height="9" alt="" border="0">Tourismus</a></td>
+<td bgcolor="#b1b1b1"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+<td bgcolor="#ffffff">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr><td><a class="medium" href="../../bilder/index.php">&nbsp;&nbsp;Bilder&nbsp;&nbsp;</a></td>
+<td><img src="../../images/psp10.gif" width="1" height="20" alt="" border="0"></td>
+<td><a class="medium" href="../../kultur/index.php">&nbsp;&nbsp;Kultur&nbsp;&nbsp;</a></td>
+<td><img src="../../images/psp10.gif" width="1" height="20" alt="" border="0"></td>
+<td><a class="medium" href="../../lifestyle/index.php">&nbsp;&nbsp;Lifestyle&nbsp;&nbsp;</a></td>
+<td><img src="../../images/psp10.gif" width="1" height="20" alt="" border="0"></td>
+<td><a class="medium" href="../../links/index.php">&nbsp;&nbsp;Links&nbsp;&nbsp;</a></td>
+<td><img src="../../images/psp10.gif" width="1" height="20" alt="" border="0"></td>
+<td><a class="medium" href="../../news/index.php">&nbsp;&nbsp;News&nbsp;&nbsp;</a></td>
+<td><img src="../../images/psp10.gif" width="1" height="20" alt="" border="0"></td>
+<td><a class="medium" href="../../region/index.php">&nbsp;&nbsp;Region&nbsp;&nbsp;</a></td>
+<td><img src="../../images/psp10.gif" width="1" height="20" alt="" border="0"></td>
+<td><a class="medium" href="../../termine/index.php">&nbsp;&nbsp;Termine&nbsp;&nbsp;</a></td>
+<td><img src="../../images/psp10.gif" width="1" height="20" alt="" border="0"></td>
+<td><a class="medium" href="../../wirtschaft/index.php">&nbsp;&nbsp;Wirtschaft&nbsp;&nbsp;</a></td>
+<td><img src="../../images/psp10.gif" width="1" height="20" alt="" border="0"></td>
+<td><a class="medium" href="../../newsletter/index.php">&nbsp;&nbsp;Newsletter&nbsp;&nbsp;</a></td>
+<td><img src="../../images/psp10.gif" width="1" height="20" alt="" border="0"></td>
+</tr>
+</table>
+</td>
+<td bgcolor="#b1b1b1"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td colspan="5" bgcolor="#b1b1b1"><img src="../../images/pcp.gif" width="700" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#b1b1b1"><img src="../../images/pcp.gif" width="1" height="1" alt="" border="0"></td>
+<td valign="top" bgcolor="#EFEFEF"><table border="0" cellpadding="0" cellspacing="0" width="160" bgcolor="#EFEFEF">
+
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><a class="medium" href="../gaeste/index.php"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">G&auml;ste</a></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><a class="medium" href="../hotelsmiemingerplateau/index.php"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Hotels</a></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><a class="medium" href="../huettenmiemingerplateau/index.php"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">H&uuml;tten</a></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><a class="medium" href="../museen/index.php"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Museen</a></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><a class="medium" href="../pensionenmiemingerplateau/index.php"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Pensionen</a></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><a class="medium" href="../tourentipps/index.php"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Tourentipps</a></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><a class="alt" href="./index.php"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Tourismus-Info</a></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><a class="medium" href="../wandern/index.php"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Wandern</a></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="15" alt="" border="0"></td>
+</tr>
+
+
+<tr>
+<td bgcolor="#EFEFEF" align="left">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr><form name="search" action="../../fts.php" method="get">
+<td><img src="../../images/pcp.gif" width="10" height="1" alt="" border="0"></td>
+<td><input class="search" type="text" name="criteria" size="14" maxlength="30"></td>
+<td><input type="image" src="../../images/psrchok.gif" border="0"></td>
+</form>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td><img src="../../images/pcp.gif" width="1" height="15" alt="" border="0"></td>
+</tr>
+
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#651B1B"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#651B1B"><span class="small"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Allgemein:</span></td>
+</tr>
+<tr>
+<td bgcolor="#651B1B"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+
+
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><a class="white" href="../../index.php"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Startseite</a></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><a class="white" href="../../impressum.html"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Impressum</a></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><a class="white" href="../../haftungsausschluss.php"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Haftungsausschluss</a></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><a class="white" href="../../kontakt.php"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Kontakt</a></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><a class="white" href="../../faqsfragen.php"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">FAQs - Fragen</a></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><a class="white" href="../../agb.html"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">AGB</a></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><a class="white" href="../../werbung.html"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Werbung</a></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><a class="white" href="../../preise.html"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Preise</a></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><a class="white" href="../../mediadaten.html"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Mediadaten</a></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><a class="white" href="../../rss.php"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">RSS</a></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><a class="white" href="../../wirueberuns.php"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Wir &uuml;ber uns</a></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><a class="white" href="../../sitemap.php"><img src="../../images/pcp.gif" width="15" height="1" alt="" border="0">Sitemap</a></td>
+</tr>
+<tr>
+<td bgcolor="#B22121"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td><img src="../../images/psp160.gif" width="160" height="1" alt="" border="0"></td>
+</tr>
+</table>
+</td>
+<td bgcolor="#b1b1b1"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+<td bgcolor="#ffffff" valign="top"><table border="0" cellpadding="0" cellspacing="0">
+
+
+<tr>
+<td><img src="../../images/pcp.gif" width="10" height="4" alt="" border="0"></td>
+<td><img src="../../images/pcp.gif" width="347" height="4" alt="" border="0"></td>
+<td><img src="../../images/pcp.gif" width="20" height="4" alt="" border="0"></td>
+<td><img src="../../images/pcp.gif" width="150" height="4" alt="" border="0"></td>
+<td><img src="../../images/pcp.gif" width="10" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"><h1>Tourismus-Info</h1></td>
+<td></td>
+</tr>
+
+  <tr>
+  <td></td>
+  <td colspan="3"><h2><a name="8627589caf1355e28"></a></h2></td>
+  <td></td>
+  </tr>
+      <tr>
+    <td></td>
+    <td colspan="3">  
+		<a href="./tvb-mit-neuer-homepage.php"><img src="../../images/8627589caf11f2911_517.jpg" width="517" height="353" alt="" border="0"></a>
+		
+		
+		
+		<p class="illu"><strong>&Uuml;bersichtlich, effizient - neue TVB-Homepage </strong> <br></p>
+</td>
+    <td></td>
+    </tr>
+    
+  <tr>
+  <td></td>
+  <td colspan="3"><h2><a name="8627589caf1356229"></a>Tourismusverband mit neuem Marketingkonzept</h2></td>
+  <td></td>
+  </tr>
+      <tr>
+    <td></td>
+    <td colspan="3"><table border="0" cellspacing="0" cellpadding="4" width="100%">
+
+            <tr bgcolor="#EFEFEF">
+	                              <td width="100%"  class="cell" align="left" valign="top">
+		      	        Marketingstrategisch zeigt sich in diesen Tagen der Tourismusverband Mieminger Plateau &amp; Fernpass Seen rundum neu gestylt. Neben dem Logo steht optisch vor allem die Anfang Oktober ver&ouml;ffentlichte renovierte TVB-Homepage f&uuml;r eine neue &Uuml;bersichtlichkeit der Angebote. In den beiden Sprachen deutsch und italienisch offeriert der Tourismusverband im Internet beispielsweise den Unterkunftsbereich ausf&uuml;hrlicher als bisher. &bdquo;Jeder Betrieb ist pr&auml;sent und alle sind online buchbar&ldquo;, sagt TVB-Gesch&auml;ftsf&uuml;hrer Manuel Lampe im Gespr&auml;ch mit Mieming-Plus. Auffallend vordergr&uuml;ndig sind auch die neue G&auml;stekarten in Silber und Gold. &bdquo;Sie werden von 80 Prozent der Vermieter positiv angenommen, die sich &uuml;ber das neue G&auml;steangebot freuen&ldquo;, versichert der Tourismuschef, der sich daf&uuml;r einsetzen will, die &bdquo;vereinzelten Zweifler&ldquo; noch zu &uuml;berzeugen. [ <a href="./tvb-mit-neuer-homepage.php">weiter</a> ] 	  	  </td>
+    </tr>
+</table><br><br>
+</td>
+    <td></td>
+    </tr>
+    
+  <tr>
+  <td></td>
+  <td colspan="3"><h2><a name="8627589cb0000643d"></a>Schmankerlpfad er&ouml;ffnet</h2></td>
+  <td></td>
+  </tr>
+          <tr>
+    <td></td>
+    <td valign="top"><p>Die Er&ouml;ffnung des Schmankerlpfads gab den Startschuss f&uuml;r den Veranstaltungs-Herbst in der Region Mieminger Plateau. Harald Krassnitzer durchschnitt am Samstag, dem 3. Oktober 2009, offiziell das Band zur neuen touristischen Attraktion. Der Pfad bedeutet f&uuml;r die Ferienregion einen wichtigen Schritt in Richtung Genussregion. &bdquo;Der genussvolle Aspekt des Urlaubs bei uns wird durch den Schmankerlpfad untermauert. Am Weg lernen unsere G&auml;ste die Herkunft der Zutaten des Tiroler Gr&ouml;stls und seine Zutaten genauer kennen&ldquo;, best&auml;tigt Manuel Lampe. [ <a href="../harald-krassnitzer-eroeffnet-schmankerlpfad.php">weiter</a> ]</p>
+</td>
+    <td><img src="../../images/pcp.gif" width="20" height="100" alt="" border="0"></td>
+
+    	<td valign="top"><a href="../harald-krassnitzer-eroeffnet-schmankerlpfad.php"><img src="../../images/8627589caf1470c2e_150.jpg" width="150" height="112" alt="" border="0"></a>
+		
+		
+    	
+			<p class="illu"><strong>Schmankerlpfad </strong> (v.l. Manuel Lampe, Harald Krassnitzer, Hermann F&ouml;ger)<br></p>
+	</td>
+    <td></td>
+    </tr>
+    
+  <tr>
+  <td></td>
+  <td colspan="3"><h2><a name="8627589caf1168702"></a>Ferienregion Mieminger Plateau Aktiv</h2></td>
+  <td></td>
+  </tr>
+          <tr>
+    <td></td>
+    <td valign="top"><p>Von Montag bis Freitag unterschiedliche Sportarten unter professioneller Leitung ausprobieren &ndash; das ist der neue Aufh&auml;nger f&uuml;r die Bewerbung der Sommerangebote der Ferienregion Mieminger Plateau &amp; Fernpass Seen. Eine aktuelle Studie best&auml;tigt: Knapp 3.000 befragte Tirolurlauber belegten den Trend zum aktiven Gast. &quot;Wir bieten unseren G&auml;sten an f&uuml;nf Wochentagen das breite Spektrum unseres Sportangebotes&quot;, sagt Manuel Lampe, Tourismuschef Mieminger Plateau &amp; Fernpass Seen. [ <a href="./probier-region-mieminger-plateau.php">weiter</a> ]</p>
+</td>
+    <td><img src="../../images/pcp.gif" width="20" height="100" alt="" border="0"></td>
+
+    	<td valign="top"><a href="./probier-region-mieminger-plateau.php"><img src="../../images/8627589bec0d52362_150.jpg" width="150" height="112" alt="" border="0"></a>
+		
+		
+    	
+			<p class="illu"><strong>Aktiv-G&auml;ste </strong> <br></p>
+	</td>
+    <td></td>
+    </tr>
+    
+  <tr>
+  <td></td>
+  <td colspan="3"><h2><a name="8627589c490a3b9b5"></a>TVB-G&auml;steehrung in der Traube, Wildermieming</h2></td>
+  <td></td>
+  </tr>
+          <tr>
+    <td></td>
+    <td valign="top"><p>Mit der D&uuml;sseldorferin Helga Leclaire konnte der Tourismusverband Mieminger Plateau &amp; Fernpass Seen (TVB) eine besonders treue Besucherin ehren: Helga Leclaire erhielt die TVB-Ehrennadel und eine Urkunde f&uuml;r 50 Jahre Treue und Verbundenheit zum Mieminger Plateau. Die Urkunde erhielt sie Rahmen einer gro&szlig;en G&auml;steehrung im Hotel Traube in Wildermieming mit Tiroler Abend aus den H&auml;nden von Tourismus-Obmann Hermann F&ouml;ger und Johann Brenner. Die Geehrte kann viele Geschichten erz&auml;hlen. [ <a href="../gaeste/tvb-gaesteehrung-hotel-traube.php">weiter</a> ]</p>
+</td>
+    <td><img src="../../images/pcp.gif" width="20" height="100" alt="" border="0"></td>
+
+    	<td valign="top"><a href="../gaeste/tvb-gaesteehrung-hotel-traube.php"><img src="../../images/8627589c490a0cab2_150.jpg" width="150" height="112" alt="" border="0"></a>
+		
+		
+    	
+			<p class="illu"><strong>50 Jahre Treue </strong> <br></p>
+	</td>
+    <td></td>
+    </tr>
+    
+  <tr>
+  <td></td>
+  <td colspan="3"><h2><a name="8627589be60ca7313"></a>Ferienregion tirolmitte in Br&uuml;ssel</h2></td>
+  <td></td>
+  </tr>
+          <tr>
+    <td></td>
+    <td valign="top"><p>Die Ferienregion tirolmitte nutzte vom 9. bis 14. M&auml;rz 2009 die Gelegenheit, sich auf der Urlaubsmesse in der belgischen Hauptstadt Br&uuml;ssel einer gro&szlig;en Zahl an interessierten G&auml;sten zu pr&auml;sentieren. Die Teilnahme wurde gemeinsam mit dem Privatzimmervermieterverband organisiert, da diese Messe speziell f&uuml;r Klein- und Kleinstvermieter einen idealen Rahmen bietet. [ <a href="../tourismusmesse-bruessel.php">weiter</a> ]</p>
+</td>
+    <td><img src="../../images/pcp.gif" width="20" height="100" alt="" border="0"></td>
+
+    	<td valign="top"><a href="../tourismusmesse-bruessel.php"><img src="../../images/8627589bd60ca4526_150.jpg" width="150" height="112" alt="" border="0"></a>
+		
+		
+    	
+			<p class="illu"><strong>Tourismusmesse Br&uuml;ssel </strong> <br></p>
+	</td>
+    <td></td>
+    </tr>
+    
+  <tr>
+  <td></td>
+  <td colspan="3" align="right">
+  <br><a class="greylink" href="tvb-mit-neuer-homepage.php">TVB mit neuer Homepage</a><br>
+  </td>
+  <td></td>
+  </tr>
+<tr>
+
+<td colspan="5"><img src="../../images/pcp.gif" width="537" height="4" alt="" border="0"></td>
+</tr>
+</table>
+</td>
+<td bgcolor="#b1b1b1"><img src="../../images/pcp.gif" width="1" height="4" alt="" border="0"></td>
+</tr>
+<tr>
+<td colspan="5" bgcolor="#b1b1b1"><img src="../../images/pcp.gif" width="700" height="1" alt="" border="0"></td>
+</tr>
+
+</table>
+
+</td>
+<td width="170" valign="top">
+<div id="sidebar">
+<h2></h2>
+  
+<a href="../../wirtschaft/marktplatz/index.php"><img src="../../images/marktplatz_sbp.683.gif" width="150" height="111" alt="" border="0"></a>
+	
+	
+	
+<br>
+<h2></h2>
+  
+	
+<a href="http://www.pension-spielmann.at" target="_blank"><img src="../../images/haus_des_monats_spielmann_sbp.02.jpg" width="150" height="131" alt="" border="0"></a>
+	
+	
+<br>
+<h2>Pension Spielmann</h2>
+<p>Sommerfrische f&uuml;r Genie&szlig;er und sportliche Abenteuer in Mieming. Urlaub auf dem Bauernhof, Tiere hautnah erleben - dem Bauern beim Melken und f&uuml;ttern helfen. <a href="http://www.pension-spielmann.at" target="_blank">www.pension-spielmann.at</a></p><br>
+<h2></h2>
+  
+<a href="../huettenmiemingerplateau/lehnberghaus.php"><img src="../../images/ausflugstipps_lehnberghaus_02_sbp.jpg" width="150" height="131" alt="" border="0"></a>
+	
+	
+	
+<br>
+<h2>Lehnberghaus</h2>
+<p>F&uuml;hlen Sie den nahen Bergsommer im 1.554 Meter hochgelegenen Lehnberghaus. Bei den H&uuml;ttenwirten Hans und Linde Auer treffen sich Bergler und Wanderer. &Uuml;bernachtung auf Voranmeldung: Tel. 0676-5344791. [ <a href="../huettenmiemingerplateau/lehnberghaus.php">weiter</a> ]</p><br>
+<h2></h2>
+  
+<a href="../../wirtschaft/reisen/idealtoursreisetipp.php"><img src="../../images/reisetipp_strand_150_120_sbp.jpg" width="150" height="120" alt="" border="0"></a>
+	
+	
+	
+<br>
+<h2>Kurzbadereisen an die Adria</h2>
+<p>Mit Idealtours kann man ab Mai wieder w&ouml;chentlich von 13. Mai bis 9. September jeden Donnerstag und Sonntag nach Jesolo reisen. [ <a href="../../wirtschaft/reisen/idealtoursreisetipp.php">weiter</a> ]</p><br>
+<h2></h2>
+  
+<a href="../../wirtschaft/pflege/index.php"><img src="../../images/pflegedienst_kommissionsverkauf_sbp.jpg" width="150" height="131" alt="" border="0"></a>
+	
+	
+	
+<br>
+<h2>Pflege und Wellness</h2>
+<p>Arbeitsvermittlung im Pflegebereich und Kommissionsverkauf in Wildermieming, Kontakt und Beratung: Jaroslav Ondrik. [ <a href="../../wirtschaft/pflege/index.php">weiter</a> ]</p><br>
+<h2></h2>
+  
+	
+<a href="http://www.stecher-stecher.at" target="_blank"><img src="../../images/geschenktipp_chryseldis_sbp.jpg" width="150" height="131" alt="" border="0"></a>
+	
+	
+<br>
+<h2>Kunst vom Stein</h2>
+<p><a href="http://www.stecher-stecher.at" target="_blank">Lithographien in limitierten Kleinauflagen</a> mit Zertifikat, z.B. die Lithographie &quot;Bergsee&quot; von der Tiroler K&uuml;nstlerin Chryseldis Hofer-Mitterer. Steindruckerei Stecher &amp; Stecher, Wildermieming-Affenhausen, Tel. +43 5264 5196, Web: <a href="http://www.stecher-stecher.at" target="_blank">www.stecher-stecher.at</a></p><br>
+<h2></h2>
+  
+<a href="../../termine/index.php"><img src="../../images/veranstaltungen_trenkwalder_sbp.jpg" width="150" height="133" alt="" border="0"></a>
+	
+	
+	
+<br>
+<h2></h2>
+<ul>
+<li><a href="../../termine/index.php">11.06.2010: Vernissage zur Ausstellung von Ines Flattinger, 19 Uhr, KunstWerkRaum im Mesnerhaus, Mieming-Untermieming.</a></li>
+<li><a href="../../termine/index.php">19.06.2010: Florianimesse mit Fahrzeugweihe beim Feuerwehrhaus in Mieming, ab 19 Uhr, anschlie&szlig;end Konzert der Musikkapelle Mieming.</a></li>
+</ul>
+<br>
+<h2></h2>
+  
+	
+<a href="http://www.wetter.at/wetter/oesterreich/tirol/mieming#" target="_blank"><img src="../../images/wetter_fruehling_150_133_sbp.jpg" width="150" height="125" alt="" border="0"></a>
+	
+	
+<br>
+<h2></h2>
+<ul>
+<li><a href="http://www.wetter.at/wetter/oesterreich/tirol/mieming#" target="_blank">Mieming</a></li>
+<li><a href="http://www.wetter.at/wetter/oesterreich/tirol/obsteig/" target="_blank">Obsteig</a></li>
+<li><a href="http://www.wetter.at/wetter/oesterreich/tirol/wildermieming/" target="_blank">Wildermieming</a></li>
+</ul>
+<br>
+<h2></h2>
+  
+<a href="../../region/reportagen/alpenrundflugumdasmiemingerplateau.php"><img src="../../images/reportagen_beitraege_150_116_sbp.jpg" width="150" height="116" alt="" border="0"></a>
+	
+	
+	
+<br>
+<h2>Beliebte Beitr&auml;ge</h2>
+<ul>
+<li><a href="../../kultur/brauchtum/almabtrieb-hochfeldern.php">Almabtrieb Hochfeldern - Mieming</a></li>
+<li><a href="../../kultur/brauchtum/bergmesse-auf-der-marienberg-alm.php">Bergmesse auf der Marienberg-Alpe</a></li>
+<li><a href="../../region/reportagen/alpenrundflugumdasmiemingerplateau.php">Alpenrundflug Mieminger Plateau</a></li>
+<li><a href="../../kultur/brauchtum/hubertusmesse-haemmermoosalm.php">Hubertusmesse mit Mieminger Jagdhornbl&auml;sern</a></li>
+</ul>
+<br>
+<h2></h2>
+  
+<a href="../../region/gemeinden/index.php"><img src="../../images/sidebar_sbp.gemeinden.150.jpg" width="150" height="78" alt="" border="0"></a>
+	
+	
+	
+<br>
+<h2>Im Internet</h2>
+<ul>
+<li><a href="http://www.mieming.tirol.gv.at/" target="_blank">Mieming</a></li>
+<li><a href="http://www.moetz.tirol.gv.at/" target="_blank">M&ouml;tz</a></li>
+<li><a href="http://www.nassereith.tirol.gv.at/" target="_blank">Nassereith</a></li>
+<li><a href="http://www.obsteig.tirol.gv.at/" target="_blank">Obsteig</a></li>
+<li><a href="http://www.silz.tirol.gv.at/" target="_blank">Silz</a></li>
+<li><a href="http://www.telfs.eu/" target="_blank">Telfs</a></li>
+<li><a href="http://www.wildermieming.tirol.gv.at/" target="_blank">Wildermieming</a></li>
+</ul>
+<br>
+<h2></h2>
+  
+<a href="../../region/rettung/index.php"><img src="../../images/rettung150_sbp.jpg" width="150" height="117" alt="" border="0"></a>
+	
+	
+	
+<br>
+<h2>Telefon</h2>
+<ul>
+<li><a href="../../region/rettung/aerzte/index.php">&Auml;rzte:</a> <b>141</b></li>
+<li><a href="../../region/rettung/feuerwehr/index.php">Feuerwehr:</a> <b>122</b></li>
+<li><a href="../../region/rettung/bergrettung/index.php">Bergrettung:</a> <b>140</b></li>
+<li><a href="../../region/rettung/roteskreuz/index.php">Rotes Kreuz:</a> <b>144</b></li>
+<li><a href="../../region/rettung/polizei/index.php">Polizei:</a> <b>133</b></li>
+</ul>
+<br>
+<h2></h2>
+<p>[ <a href="../../region/rettung/index.php">weiter</a> ]</p><br>
+<h2></h2>
+  
+	
+<a href="http://www.facebook.com/pages/Mieming-Plus/245261473505#!" target="_blank"><img src="../../images/facebook_sbp.jpg" width="150" height="56" alt="" border="0"></a>
+	
+	
+<br>
+<h2>Mieming-Plus</h2>
+<p>...gef&auml;llt mir auf Facebook: [ <a href="http://www.facebook.com/pages/Mieming-Plus/245261473505#!" target="_blank">weiter</a> ]</p><br>
+<h2>Nachrichten</h2>
+<table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td><img src="bu8627589be60f8281e.gif" border="0" alt=""></td><td width="100%"><a href="../../assets/rss/8627589bdf0e9f505.xml" class="s2d">RSS Mieming-Plus abonnieren</a></td></tr></table><br>
+<h2></h2>
+<a href="http://fusion.google.com/add?source=atgs&feedurl=http%3A//www.mieming-plus.at/assets/rss/8627589bdf0e9f505.xml"><img src="http://buttons.googlesyndication.com/fusion/add.gif" border="0" alt="Add to Google"></a><br>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
